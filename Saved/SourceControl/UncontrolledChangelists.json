@@ -1,0 +1,30 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Komputer/Documents/Unreal Projects/HK_TEB_19_09/Content/Animations/PZD_ABP_Knight.uasset",
+				"C:/Users/Komputer/Documents/Unreal Projects/HK_TEB_19_09/Content/Blueprint/BP_Knight.uasset",
+				"C:/Users/Komputer/Documents/Unreal Projects/HK_TEB_19_09/Content/Art/Flipbooks/FB_Knight_Attack.uasset",
+				"C:/Users/Komputer/Documents/Unreal Projects/HK_TEB_19_09/Content/Art/Flipbooks/FB_Knight_Idle.uasset",
+				"C:/Users/Komputer/Documents/Unreal Projects/HK_TEB_19_09/Content/Art/Flipbooks/FB_Knight_Idle_L.uasset",
+				"C:/Users/Komputer/Documents/Unreal Projects/HK_TEB_19_09/Content/Art/Flipbooks/FB_Knight_Jump.uasset",
+				"C:/Users/Komputer/Documents/Unreal Projects/HK_TEB_19_09/Content/Art/Flipbooks/FB_Knight_Walk_L.uasset",
+				"C:/Users/Komputer/Documents/Unreal Projects/HK_TEB_19_09/Content/Art/Flipbooks/FB_Knight_Walk_R.uasset",
+				"C:/Users/Komputer/Documents/Unreal Projects/HK_TEB_19_09/Content/Maps/L_Test.umap",
+				"C:/Users/Komputer/Documents/Unreal Projects/HK_TEB_19_09/Content/M_Unlit.uasset",
+				"C:/Users/Komputer/Documents/Unreal Projects/HK_TEB_19_09/Content/MI_Platform.uasset",
+				"C:/Users/Komputer/Documents/Unreal Projects/HK_TEB_19_09/Content/Art/Textures/theknightidlepixel.uasset",
+				"C:/Users/Komputer/Documents/Unreal Projects/HK_TEB_19_09/Content/Art/Textures/theknightidlepixelL.uasset",
+				"C:/Users/Komputer/Documents/Unreal Projects/HK_TEB_19_09/Content/Art/Textures/theknightpixeljump.uasset",
+				"C:/Users/Komputer/Documents/Unreal Projects/HK_TEB_19_09/Content/Art/Textures/theknightslashpixel.uasset",
+				"C:/Users/Komputer/Documents/Unreal Projects/HK_TEB_19_09/Content/Art/Textures/theknightwalkingpixel.uasset",
+				"C:/Users/Komputer/Documents/Unreal Projects/HK_TEB_19_09/Content/Art/Textures/theknightwalkingpixelL.uasset",
+				"C:/Users/Komputer/Documents/Unreal Projects/HK_TEB_19_09/Content/Input/IA_Dash.uasset",
+				"C:/Users/Komputer/Documents/Unreal Projects/HK_TEB_19_09/Content/Input/IMC_Gameplay.uasset"
+			]
+		}
+	]
+}
